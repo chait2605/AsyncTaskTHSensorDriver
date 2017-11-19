@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"AsyncTask: TH Sensor Driver "</string>
+    <string name="AppTitle">Temperature and Humidity\n Sensor Driver</string>
+    <string name="LabelTemperature">Temperature(F):</string>
+    <string name="LabelHumidity">Humidity(%):</string>
+    <string name="LabelActivityId">Activity ID:</string>
+    <string name="LabelNumSensorReadings">Number of Sensor Readings:</string>
+    <string name="BtnGenerate">Generate</string>
+    <string name="BtnCancel">Cancel</string>
+</resources>
